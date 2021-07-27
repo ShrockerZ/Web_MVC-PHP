@@ -28,6 +28,9 @@ crea una nuevo usuario
 index.php?controller=Usuario&action=crear
 ```
 
+## Modificaciones 
+- ignorar esta linea solo se hace mpara hacer una prueba de git 
+
 ## Créditos
 - [@MrInternauta](https://twitter.com/mrinternauta)
 
